@@ -21,7 +21,7 @@ RSS: false
 # weibo_username:     xiangyutian
 zhihu_username:     xiangyutian
 github_username:    xiangyutian
-facebook_username:  baiying.qiu.7
+facebook_username:  skyxiangyu
 jianshu_username:   d3267148d7ee
 twitter_username:   skyxiangyu
 
@@ -98,9 +98,6 @@ service-worker: true
 # Friends
 friends: [
     {
-        title: "WY",
-        href: "http://zhengwuyang.com"
-    },{
         title: "简书·XY",
         href: "https://www.jianshu.com/u/d3267148d7ee"
     },{
